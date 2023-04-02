@@ -1,0 +1,195 @@
+
+Xprobe2 v.0.3 Copyright (c) 2002-2005 fyodor@o0o.nu, ofir@sys-security.com, meder@o0o.nu
+
+[+] Target is 89.43.3.120
+[+] Loading modules.
+[+] Following modules are loaded:
+[x] [1] ping:icmp_ping  -  ICMP echo discovery module
+[x] [2] ping:tcp_ping  -  TCP-based ping discovery module
+[x] [3] ping:udp_ping  -  UDP-based ping discovery module
+[x] [4] infogather:ttl_calc  -  TCP and UDP based TTL distance calculation
+[x] [5] infogather:portscan  -  TCP and UDP PortScanner
+[x] [6] fingerprint:icmp_echo  -  ICMP Echo request fingerprinting module
+[x] [7] fingerprint:icmp_tstamp  -  ICMP Timestamp request fingerprinting module
+[x] [8] fingerprint:icmp_amask  -  ICMP Address mask request fingerprinting module
+[x] [9] fingerprint:icmp_port_unreach  -  ICMP port unreachable fingerprinting module
+[x] [10] fingerprint:tcp_hshake  -  TCP Handshake fingerprinting module
+[x] [11] fingerprint:tcp_rst  -  TCP RST fingerprinting module
+[x] [12] fingerprint:smb  -  SMB fingerprinting module
+[x] [13] fingerprint:snmp  -  SNMPv2c fingerprinting module
+[+] 13 modules registered
+[+] Initializing scan engine
+[+] Running scan engine
+[-] ping:tcp_ping module: no closed/open TCP ports known on 89.43.3.120. Module test failed
+[-] ping:udp_ping module: no closed/open UDP ports known on 89.43.3.120. Module test failed
+[-] No distance calculation. 89.43.3.120 appears to be dead or no ports known
+[+] Host: 89.43.3.120 is up (Guess probability: 50%)
+[+] Target: 89.43.3.120 is alive. Round-Trip Time: 0.49336 sec
+[+] Selected safe Round-Trip Time value is: 0.98671 sec
+
+Xprobe2 v.0.3 Copyright (c) 2002-2005 fyodor@o0o.nu, ofir@sys-security.com, meder@o0o.nu
+
+[+] Target is 89.43.3.120
+[+] Loading modules.
+[+] Following modules are loaded:
+[x] [1] ping:icmp_ping  -  ICMP echo discovery module
+[x] [2] ping:tcp_ping  -  TCP-based ping discovery module
+[x] [3] ping:udp_ping  -  UDP-based ping discovery module
+[x] [4] infogather:ttl_calc  -  TCP and UDP based TTL distance calculation
+[x] [5] infogather:portscan  -  TCP and UDP PortScanner
+[x] [6] fingerprint:icmp_echo  -  ICMP Echo request fingerprinting module
+[x] [7] fingerprint:icmp_tstamp  -  ICMP Timestamp request fingerprinting module
+[x] [8] fingerprint:icmp_amask  -  ICMP Address mask request fingerprinting module
+[x] [9] fingerprint:icmp_port_unreach  -  ICMP port unreachable fingerprinting module
+[x] [10] fingerprint:tcp_hshake  -  TCP Handshake fingerprinting module
+[x] [11] fingerprint:tcp_rst  -  TCP RST fingerprinting module
+[x] [12] fingerprint:smb  -  SMB fingerprinting module
+[x] [13] fingerprint:snmp  -  SNMPv2c fingerprinting module
+[+] 13 modules registered
+[+] Initializing scan engine
+[+] Running scan engine
+[-] ping:tcp_ping module: no closed/open TCP ports known on 89.43.3.120. Module test failed
+[-] ping:udp_ping module: no closed/open UDP ports known on 89.43.3.120. Module test failed
+[-] No distance calculation. 89.43.3.120 appears to be dead or no ports known
+[+] Host: 89.43.3.120 is up (Guess probability: 50%)
+[+] Target: 89.43.3.120 is alive. Round-Trip Time: 0.49336 sec
+[+] Selected safe Round-Trip Time value is: 0.98671 sec
+
+[+] Portscan results for 89.43.3.120:
+[+]  Stats:
+[+]   TCP: 0 - open, 188 - closed, 113 - filtered
+[+]   UDP: 0 - open, 0 - closed, 0 - filtered
+[+]   Portscan took 8.78 seconds.
+[+]  Details:
+[+]   Proto	Port Num.	State		Serv. Name
+[+]   TCP	1703		filtered	N/A	
+[+]   TCP	1706		filtered	N/A	
+[+]   TCP	1707		filtered	N/A	
+[+]   TCP	1708		filtered	N/A	
+[+]   TCP	1713		filtered	N/A	
+[+]   TCP	1714		filtered	N/A	
+[+]   TCP	1717		filtered	N/A	
+[+]   TCP	1720		filtered	N/A	
+[+]   TCP	1722		filtered	N/A	
+[+]   TCP	1728		filtered	N/A	
+[+]   TCP	1736		filtered	N/A	
+[+]   TCP	1738		filtered	N/A	
+[+]   TCP	1752		filtered	N/A	
+[+]   TCP	1756		filtered	N/A	
+[+]   TCP	1764		filtered	N/A	
+[+]   TCP	1767		filtered	N/A	
+[+]   TCP	1771		filtered	N/A	
+[+]   TCP	1772		filtered	N/A	
+[+]   TCP	1775		filtered	N/A	
+[+]   TCP	1776		filtered	N/A	
+[+]   TCP	1777		filtered	N/A	
+[+]   TCP	1778		filtered	N/A	
+[+]   TCP	1779		filtered	N/A	
+[+]   TCP	1781		filtered	N/A	
+[+]   TCP	1786		filtered	N/A	
+[+]   TCP	1787		filtered	N/A	
+[+]   TCP	1788		filtered	N/A	
+[+]   TCP	1793		filtered	N/A	
+[+]   TCP	1794		filtered	N/A	
+[+]   TCP	1796		filtered	N/A	
+[+]   TCP	1797		filtered	N/A	
+[+]   TCP	1799		filtered	N/A	
+[+]   TCP	1800		filtered	N/A	
+[+]   TCP	1804		filtered	N/A	
+[+]   TCP	1805		filtered	N/A	
+[+]   TCP	1813		filtered	radius-acct	
+[+]   TCP	1816		filtered	N/A	
+[+]   TCP	1817		filtered	N/A	
+[+]   TCP	1821		filtered	N/A	
+[+]   TCP	1826		filtered	N/A	
+[+]   TCP	1832		filtered	N/A	
+[+]   TCP	1835		filtered	N/A	
+[+]   TCP	1838		filtered	N/A	
+[+]   TCP	1839		filtered	N/A	
+[+]   TCP	1842		filtered	N/A	
+[+]   TCP	1848		filtered	N/A	
+[+]   TCP	1849		filtered	N/A	
+[+]   TCP	1851		filtered	N/A	
+[+]   TCP	1855		filtered	N/A	
+[+]   TCP	1857		filtered	N/A	
+[+]   TCP	1859		filtered	N/A	
+[+]   TCP	1862		filtered	N/A	
+[+]   TCP	1865		filtered	N/A	
+[+]   TCP	1867		filtered	N/A	
+[+]   TCP	1868		filtered	N/A	
+[+]   TCP	1871		filtered	N/A	
+[+]   TCP	1873		filtered	N/A	
+[+]   TCP	1874		filtered	N/A	
+[+]   TCP	1878		filtered	N/A	
+[+]   TCP	1879		filtered	N/A	
+[+]   TCP	1886		filtered	N/A	
+[+]   TCP	1887		filtered	N/A	
+[+]   TCP	1888		filtered	N/A	
+[+]   TCP	1890		filtered	N/A	
+[+]   TCP	1893		filtered	N/A	
+[+]   TCP	1894		filtered	N/A	
+[+]   TCP	1898		filtered	N/A	
+[+]   TCP	1899		filtered	N/A	
+[+]   TCP	1902		filtered	N/A	
+[+]   TCP	1903		filtered	N/A	
+[+]   TCP	1909		filtered	N/A	
+[+]   TCP	1911		filtered	N/A	
+[+]   TCP	1912		filtered	N/A	
+[+]   TCP	1914		filtered	N/A	
+[+]   TCP	1915		filtered	N/A	
+[+]   TCP	1916		filtered	N/A	
+[+]   TCP	1917		filtered	N/A	
+[+]   TCP	1919		filtered	N/A	
+[+]   TCP	1921		filtered	N/A	
+[+]   TCP	1922		filtered	N/A	
+[+]   TCP	1924		filtered	N/A	
+[+]   TCP	1928		filtered	N/A	
+[+]   TCP	1929		filtered	N/A	
+[+]   TCP	1930		filtered	N/A	
+[+]   TCP	1934		filtered	N/A	
+[+]   TCP	1937		filtered	N/A	
+[+]   TCP	1938		filtered	N/A	
+[+]   TCP	1940		filtered	N/A	
+[+]   TCP	1942		filtered	N/A	
+[+]   TCP	1944		filtered	N/A	
+[+]   TCP	1945		filtered	N/A	
+[+]   TCP	1951		filtered	N/A	
+[+]   TCP	1952		filtered	N/A	
+[+]   TCP	1958		filtered	log-server	
+[+]   TCP	1960		filtered	N/A	
+[+]   TCP	1961		filtered	N/A	
+[+]   TCP	1962		filtered	N/A	
+[+]   TCP	1965		filtered	N/A	
+[+]   TCP	1966		filtered	N/A	
+[+]   TCP	1967		filtered	N/A	
+[+]   TCP	1969		filtered	N/A	
+[+]   TCP	1971		filtered	N/A	
+[+]   TCP	1973		filtered	N/A	
+[+]   TCP	1974		filtered	N/A	
+[+]   TCP	1977		filtered	N/A	
+[+]   TCP	1978		filtered	N/A	
+[+]   TCP	1980		filtered	N/A	
+[+]   TCP	1983		filtered	N/A	
+[+]   TCP	1986		filtered	N/A	
+[+]   TCP	1991		filtered	N/A	
+[+]   TCP	1995		filtered	N/A	
+[+]   TCP	1998		filtered	N/A	
+[+]   TCP	2000		filtered	cisco-sccp	
+[+]  Other TCP ports are in closed state.
+[-] fingerprint:tcp_hshake Module execution aborted (no open TCP ports known)
+[-] fingerprint:smb need either TCP port 139 or 445 to run
+[+] Primary guess:
+[+] Host 89.43.3.120 Running OS: ðØÄçbU (Guess probability: 100%)
+[+] Other guesses:
+[+] Host 89.43.3.120 Running OS: ÇÄçbU (Guess probability: 100%)
+[+] Host 89.43.3.120 Running OS: ÇÄçbU (Guess probability: 100%)
+[+] Host 89.43.3.120 Running OS: ÇÄçbU (Guess probability: 100%)
+[+] Host 89.43.3.120 Running OS: ðØÄçbU (Guess probability: 100%)
+[+] Host 89.43.3.120 Running OS: ÇÄçbU (Guess probability: 100%)
+[+] Host 89.43.3.120 Running OS: ðØÄçbU (Guess probability: 100%)
+[+] Host 89.43.3.120 Running OS: ÇÄçbU (Guess probability: 100%)
+[+] Host 89.43.3.120 Running OS: ÇÄçbU (Guess probability: 100%)
+[+] Host 89.43.3.120 Running OS: ÇÄçbU (Guess probability: 100%)
+[+] Cleaning up scan engine
+[+] Modules deinitialized
+[+] Execution completed.

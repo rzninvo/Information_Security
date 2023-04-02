@@ -1,0 +1,168 @@
+WhatWeb report for http://aut.ac.ir
+Status    : 301 Moved Permanently
+Title     : 301 Moved Permanently
+IP        : <Unknown>
+Country   : <Unknown>
+
+Summary   : RedirectLocation[https://aut.ac.ir:443/], HTTPServer[Apache], Apache
+
+Detected Plugins:
+[ Apache ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ HTTPServer ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	String       : Apache (from server string)
+
+[ RedirectLocation ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : https://aut.ac.ir:443/ (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Thu, 9 Nov 2022 22:25:37 GMT
+	Server: Apache
+	Location: https://aut.ac.ir:443/
+	Content-Length: 230
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for https://aut.ac.ir/
+Status    : 200 OK
+Title     : دانشگاه صنعتی امیرکبیر
+IP        : <Unknown>
+Country   : <Unknown>
+
+Summary   : Script[text/javascript], X-Frame-Options[SAMEORIGIN], PasswordField[password], Cookies[969af8aywID_67c5c_data,969af8aywID_67c5c_mylang,969af8aywID_67c5c_mysid,969af8aywID_67c5c_sesid,HASH_969af8aywID_67c5c_data,HASH_969af8aywID_67c5c_mylang,HASH_969af8aywID_67c5c_mysid,HASH_969af8aywID_67c5c_sesid,HASH_PHPSESSID,PHPSESSID], Email[info@aut.ac,info@aut.ac.i,pr@aut.ac.ir], MetaGenerator[Yektaweb 4339], HttpOnly[969af8aywID_67c5c_data,969af8aywID_67c5c_mylang,969af8aywID_67c5c_mysid,969af8aywID_67c5c_sesid,HASH_969af8aywID_67c5c_data,HASH_969af8aywID_67c5c_mylang,HASH_969af8aywID_67c5c_mysid,HASH_969af8aywID_67c5c_sesid], HTTPServer[Apache], X-UA-Compatible[IE=edge,chrome=1], JQuery, Apache
+
+Detected Plugins:
+[ Apache ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ Cookies ]
+	Display the names of cookies in the HTTP headers. The 
+	values are not returned to save on space. 
+
+	String       : 969af8aywID_67c5c_mysid
+	String       : HASH_969af8aywID_67c5c_mysid
+	String       : 969af8aywID_67c5c_mylang
+	String       : HASH_969af8aywID_67c5c_mylang
+	String       : PHPSESSID
+	String       : HASH_PHPSESSID
+	String       : 969af8aywID_67c5c_data
+	String       : HASH_969af8aywID_67c5c_data
+	String       : 969af8aywID_67c5c_sesid
+	String       : HASH_969af8aywID_67c5c_sesid
+
+[ Email ]
+	Extract email addresses. Find valid email address and 
+	syntactically invalid email addresses from mailto: link 
+	tags. We match syntactically invalid links containing 
+	mailto: to catch anti-spam email addresses, eg. bob at 
+	gmail.com. This uses the simplified email regular 
+	expression from 
+	http://www.regular-expressions.info/email.html for valid 
+	email address matching. 
+
+	String       : info@aut.ac,pr@aut.ac.ir
+	String       : info@aut.ac.i
+
+[ HTTPServer ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	String       : Apache (from server string)
+
+[ HttpOnly ]
+	If the HttpOnly flag is included in the HTTP set-cookie 
+	response header and the browser supports it then the cookie 
+	cannot be accessed through client side script - More Info: 
+	http://en.wikipedia.org/wiki/HTTP_cookie 
+
+	String       : 969af8aywID_67c5c_data,969af8aywID_67c5c_mylang,969af8aywID_67c5c_mysid,969af8aywID_67c5c_sesid,HASH_969af8aywID_67c5c_data,HASH_969af8aywID_67c5c_mylang,HASH_969af8aywID_67c5c_mysid,HASH_969af8aywID_67c5c_sesid
+
+[ JQuery ]
+	A fast, concise, JavaScript that simplifies how to traverse 
+	HTML documents, handle events, perform animations, and add 
+	AJAX. 
+
+	Website     : http://jquery.com/
+
+[ MetaGenerator ]
+	This plugin identifies meta generator tags and extracts its 
+	value. 
+
+	String       : Yektaweb 4339
+
+[ PasswordField ]
+	find password fields 
+
+	String       : password (from field name)
+
+[ Script ]
+	This plugin detects instances of script HTML elements and 
+	returns the script language/type. 
+
+	String       : text/javascript
+
+[ X-Frame-Options ]
+	This plugin retrieves the X-Frame-Options value from the 
+	HTTP header. - More Info: 
+	http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+	aspx
+
+	String       : SAMEORIGIN
+
+[ X-UA-Compatible ]
+	This plugin retrieves the X-UA-Compatible value from the 
+	HTTP header and meta http-equiv tag. - More Info: 
+	http://msdn.microsoft.com/en-us/library/cc817574.aspx 
+
+	String       : IE=edge,chrome=1
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Thu, 9 Nov 2022 22:25:36 GMT
+	Server: Apache
+	Expires: Sat, 26 Jul 1997 05:00:00 GMT
+	Cache-Control: no-store, no-cache, must-revalidate
+	Pragma: no-cache
+	X-UA-Compatible: IE=edge,chrome=1
+	X-Frame-Options: SAMEORIGIN
+	Cache-Control: post-check=0, pre-check=0
+	Last-Modified: Thu, 11 Nov 2021 19:25:36 GMT
+	Vary: Accept-Encoding,User-Agent
+	Content-Type: text/html; charset=UTF-8
+	Content-Encoding: gzip
+	Set-Cookie: 969af8aywID_67c5c_mysid=1; expires=Fri, 11-Nov-2022 19:25:36 GMT; Max-Age=31536000; path=/; HttpOnly
+	Set-Cookie: HASH_969af8aywID_67c5c_mysid=9C42D581404D31E721F936995065138F04EC60AA; expires=Fri, 11-Nov-2022 19:25:36 GMT; Max-Age=31536000; path=/; HttpOnly
+	Set-Cookie: 969af8aywID_67c5c_mylang=fa; expires=Fri, 11-Nov-2022 19:25:36 GMT; Max-Age=31536000; path=/; HttpOnly
+	Set-Cookie: HASH_969af8aywID_67c5c_mylang=0351351D6DAA79321F9C764D1AA411B52AF6D296; expires=Fri, 11-Nov-2022 19:25:36 GMT; Max-Age=31536000; path=/; HttpOnly
+	Set-Cookie: PHPSESSID=a827ab67955bad4167d5af5c9dfbc5ea; path=/
+	Set-Cookie: HASH_PHPSESSID=7B49DF0B3B2DA6EFFBF210669121E2794F2B67E4; path=/
+	Set-Cookie: 969af8aywID_67c5c_data=%7B%22seschk%22%3A%227a3d85bbd671de78c26ed3b81c9e95a8%22%7D; expires=Fri, 11-Nov-2022 19:25:36 GMT; Max-Age=31536000; path=/; HttpOnly
+	Set-Cookie: HASH_969af8aywID_67c5c_data=0C093C5D38A30F0062E9CAF37A990C82A020FDB5; expires=Fri, 11-Nov-2022 19:25:36 GMT; Max-Age=31536000; path=/; HttpOnly
+	Set-Cookie: 969af8aywID_67c5c_sesid=6cfa74a7a59cfc775094e7933a67af03; path=/; HttpOnly
+	Set-Cookie: HASH_969af8aywID_67c5c_sesid=11E7B401B2221D27A1E03233BF30619D9DE3A9A1; path=/; HttpOnly
+	Connection: close
+	Transfer-Encoding: chunked

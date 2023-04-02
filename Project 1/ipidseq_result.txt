@@ -1,0 +1,588 @@
+Starting Nmap 7.93 ( https://nmap.org ) at 2022-11-08 20:45 +0330
+NSE: [ipidseq] not running for lack of privileges.
+Nmap scan report for 221.162.211.5
+Host is up (0.42s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for 26.49.20.130
+Host is up (0.062s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for 80.75.19.136
+Host is up (0.20s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 222.201.192.150
+Host is up (0.44s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for softbank060104037148.bbtec.net (60.104.37.148)
+Host is up (0.38s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for 218.232.36.157
+Host is up (0.41s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 14.80.100.179
+Host is up (0.52s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 45.76.60.126.vultr.com (45.76.60.126)
+Host is up (0.29s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for ec2-18-158-232-21.eu-central-1.compute.amazonaws.com (18.158.232.21)
+Host is up (0.16s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for 184-83-52-86-dynamic.midco.net (184.83.52.86)
+Host is up (0.35s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 84.117.133.9
+Host is up (0.19s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for a104-106-125-180.deploy.static.akamaitechnologies.com (104.106.125.180)
+Host is up (0.15s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 123-205-135-133.adsl.dynamic.seed.net.tw (123.205.135.133)
+Host is up (0.37s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for cpc68287-cdif17-2-0-cust431.5-1.cable.virginm.net (82.9.101.176)
+Host is up (0.16s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 45.193.93.193
+Host is up (0.48s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 173.205.92.230.static.quadranet.com (173.205.92.230)
+Host is up (0.30s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 26.62.84.82
+Host is up (0.39s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 86.108.x.185.go.com.jo (86.108.51.185)
+Host is up (0.20s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for static-176-159-212-19.ftth.abo.bbox.fr (176.159.212.19)
+Host is up (0.17s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 185.244.150.251
+Host is up (0.16s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cpe-70-93-53-210.natsow.res.rr.com (70.93.53.210)
+Host is up (0.31s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for e.muncloud.com (107.160.7.35)
+Host is up (0.28s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 112.202.221.125.pldt.net (112.202.221.125)
+Host is up (0.39s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for a104-80-65-125.deploy.static.akamaitechnologies.com (104.80.65.125)
+Host is up (0.26s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 221.128.132.31
+Host is up (0.18s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 135-180-178-114.dedicated.static.sonic.net (135.180.178.114)
+Host is up (0.28s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 26.43.211.188
+Host is up (0.49s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for KD036014090130.ppp-bb.dion.ne.jp (36.14.90.130)
+Host is up (0.38s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for cpe0c473de5d3d3-cm0c473de5d3d0.cpe.net.fido.ca (97.108.65.88)
+Host is up (0.22s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for 27.48.46.176
+Host is up (0.35s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 184-088-167-249.biz.spectrum.com (184.88.167.249)
+Host is up (0.27s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 114.132.199.50
+Host is up (0.34s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 54.217.208.186.yukanet.com.br (186.208.217.54)
+Host is up (0.45s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for a173-223-133-21.deploy.static.akamaitechnologies.com (173.223.133.21)
+Host is up (0.27s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cpe-76-94-50-211.socal.res.rr.com (76.94.50.211)
+Host is up (0.27s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 181.215.176.38
+Host is up (0.15s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 75-174-146-244.boid.qwest.net (75.174.146.244)
+Host is up (0.31s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for 39.98.219.7
+Host is up (0.31s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for c-24-13-138-240.hsd1.il.comcast.net (24.13.138.240)
+Host is up (0.27s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for softbank126218238205.bbtec.net (126.218.238.205)
+Host is up (0.43s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for S010664777d9466a3.cg.shawcable.net (70.73.10.5)
+Host is up (0.33s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for a104-80-61-86.deploy.static.akamaitechnologies.com (104.80.61.86)
+Host is up (0.27s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 2.88.57.32
+Host is up (0.29s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for softbank060105160039.bbtec.net (60.105.160.39)
+Host is up (0.38s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for 162.209.161.237
+Host is up (0.31s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1000 IP addresses (45 hosts up) scanned in 65.88 seconds
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-11-11 20:42 +0330
+NSE: [ipidseq] not running for lack of privileges.
+Nmap scan report for BioChip.med.ncku.edu.tw (140.116.58.123)
+Host is up (0.39s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 183.123.238.243
+Host is up (0.42s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 50-81-133-51.client.mchsi.com (50.81.133.51)
+Host is up (0.29s latency).
+
+PORT    STATE    SERVICE
+443/tcp filtered https
+
+Nmap scan report for 102.53.56.36
+Host is up (0.19s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 179-151-14-209.user.vivozap.com.br (179.151.14.209)
+Host is up (0.48s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for resening.com (5.149.250.70)
+Host is up (0.13s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 125.136.36.8
+Host is up (0.43s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 154.94.93.54
+Host is up (0.33s latency).
+
+PORT    STATE    SERVICE
+443/tcp filtered https
+
+Nmap scan report for 94-30-47-234.xdsl.murphx.net (94.30.47.234)
+Host is up (0.17s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 211.227.198.180
+Host is up (0.42s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 106.242.138.78
+Host is up (0.42s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 8.210.248.107
+Host is up (0.35s latency).
+
+PORT    STATE    SERVICE
+443/tcp filtered https
+
+Nmap scan report for 115.144.18.133
+Host is up (0.42s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 1.255.164.231
+Host is up (0.41s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 186-38-73-141.mrse.com.ar (186.38.73.141)
+Host is up (0.51s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for websvr182-93-124-84.alpha-prm.jp (182.93.124.84)
+Host is up (0.37s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for host-156.198.186.46-static.tedata.net (156.198.46.186)
+Host is up (0.32s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for ec2-52-28-18-204.eu-central-1.compute.amazonaws.com (52.28.18.204)
+Host is up (0.14s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 144.195.33.111
+Host is up (0.30s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 37.103.221.46
+Host is up (0.15s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for cpe-172-118-189-22.socal.res.rr.com (172.118.189.22)
+Host is up (0.30s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 58.87.125.146
+Host is up (0.30s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 92-33-232-133.customers.ownit.se (92.33.232.133)
+Host is up (0.16s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 220.243.137.45
+Host is up (0.41s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 65.7.96.242
+Host is up (0.55s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 41.225.4.15
+Host is up (0.41s latency).
+
+PORT    STATE    SERVICE
+443/tcp filtered https
+
+Nmap scan report for blast.managecorner.com (45.137.200.180)
+Host is up (0.36s latency).
+
+PORT    STATE    SERVICE
+443/tcp filtered https
+
+Nmap scan report for 199-255-156-219.bivek.net (199.255.156.219)
+Host is up (0.24s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 21.84-49-195.nextgentel.com (84.49.195.21)
+Host is up (0.21s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 198.255.110.10
+Host is up (0.27s latency).
+
+PORT    STATE    SERVICE
+443/tcp filtered https
+
+Nmap scan report for li1927-221.members.linode.com (172.104.217.221)
+Host is up (0.22s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for a1e23cc116bb268ba.awsglobalaccelerator.com (99.83.178.132)
+Host is up (0.13s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for ICNET-66-210-155-227.icnet.net (66.210.155.227)
+Host is up (0.27s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 47.105.52.26
+Host is up (0.56s latency).
+
+PORT    STATE    SERVICE
+443/tcp filtered https
+
+Nmap scan report for 95.215.110.39
+Host is up (0.16s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for c-98-212-56-209.hsd1.il.comcast.net (98.212.56.209)
+Host is up (0.27s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for hopeofamerica-18.04 (206.189.210.114)
+Host is up (0.30s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 39.120.95.179
+Host is up (0.41s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 104.17.131.251
+Host is up (0.14s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for a23-51-95-21.deploy.static.akamaitechnologies.com (23.51.95.21)
+Host is up (0.44s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for m5-243-198-247.cust.tele2.se (5.243.198.247)
+Host is up (0.14s latency).
+
+PORT    STATE    SERVICE
+443/tcp filtered https
+
+Nmap scan report for ec2-18-180-124-139.ap-northeast-1.compute.amazonaws.com (18.180.124.139)
+Host is up (0.40s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for a23-37-219-114.deploy.static.akamaitechnologies.com (23.37.219.114)
+Host is up (0.35s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for server-52-222-140-23.ams50.r.cloudfront.net (52.222.140.23)
+Host is up (0.21s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 194.135.122.140
+Host is up (0.18s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 217-215-175-178-no537.digitaltv.telia.com (217.215.175.178)
+Host is up (0.15s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 163.191.85.179
+Host is up (0.24s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 177-171-177-198.user.vivozap.com.br (177.171.177.198)
+Host is up (0.46s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for v150-95-100-209.m3t2.static.cnode.io (150.95.100.209)
+Host is up (0.42s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for 187-163-49-177.static.axtel.net (187.163.49.177)
+Host is up (0.28s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap scan report for a23-48-15-213.deploy.static.akamaitechnologies.com (23.48.15.213)
+Host is up (0.27s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 59.31.14.157
+Host is up (0.42s latency).
+
+PORT    STATE  SERVICE
+443/tcp closed https
+
+Nmap done: 1000 IP addresses (52 hosts up) scanned in 75.78 seconds

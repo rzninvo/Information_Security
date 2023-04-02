@@ -1,0 +1,12 @@
+Scan an IP and find open ports:
+ 
+IP 89.43.3.10 :
+IP 89.43.3.34 :
+IP 89.43.3.34 :
+IP 89.43.3.170 :
+IP 89.43.3.100 :
+Port 1723: OPEN
+IP 89.43.3.120 :
+Port 22: OPEN
+Port 80: OPEN
+Port 443: OPEN
